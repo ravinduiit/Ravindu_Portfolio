@@ -66,7 +66,7 @@ function Hero() {
             <span className="h-px w-10 bg-purple-500" />
 
             <span className="text-sm font-medium uppercase tracking-[0.25em] text-fuchsia-400">
-              Software Engineer
+              Software Engineerss
             </span>
           </motion.div>
 
